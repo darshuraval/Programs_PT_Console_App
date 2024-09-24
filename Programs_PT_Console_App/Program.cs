@@ -19,7 +19,8 @@ namespace Programs_PT_Console_App
 			//new Sept9.InheritNew();
 			//new Sept10.AbstractDemo();
 			//new Sept17.Delegate();
-			new Sept23.CollectionArrayList();
+			//new Sept23.CollectionArrayList();
+			new Sept23.CollectionSortedList();
 		}
 		public static void Inherit(string[] args)
 		{

@@ -12,6 +12,8 @@ namespace Aug20
 		public Inheritance()
 		{
 			Console.WriteLine("Inheritance Calling");
+			SetData();
+			GetData();
 		}
 		public Inheritance(int x, int y, int z) => dd.SetData(x, y, z); // store data with Command Line Argument
 		public void SetData()
